@@ -5,7 +5,7 @@ Welcome to my personal portfolio! This is an interactive, stunning web experienc
 The site utilizes modern web technologies, fluid animations, and interactive 3D elements powered by WebGL/three.js to create a highly engaging visual narrative.
 
 ## 🚀 Live Demo
-*(Insert Live Deployment Link Here or remove this section if not deployed yet)*
+[https://praveen-portfolio-13.vercel.app/](https://praveen-portfolio-13.vercel.app/)
 
 ## ✨ Features
 
